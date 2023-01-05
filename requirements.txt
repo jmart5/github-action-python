@@ -1,4 +1,3 @@
-anastruct==1.3.0
 attrs==22.1.0
 cycler==0.11.0
 et-xmlfile==1.1.0
