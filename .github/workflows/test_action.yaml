@@ -19,14 +19,6 @@ jobs:
       - name: Print the square
         run: echo "${{ steps.get_square.outputs.num_squared }}"
 
-name: Project Tests
-on:
-  push:
-    branches:
-      - master
-  pull_request:
-    branches:
-      - master
 
 jobs:
   build:
