@@ -1,2 +1,2 @@
 # github-action-python
-![](https://github.com/jmart5/github-cation-python/workflows/Test%20Action/badge.svg)
+![](https://github.com/jmart5/github-action-python/workflows/Test%20Action/badge.svg)
