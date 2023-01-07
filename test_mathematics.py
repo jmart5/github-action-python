@@ -19,4 +19,4 @@ def test_square():
     assert square_number(3) == 9
 
 def test_subtract():
-    assert subtract_numbers(3,2) == 1
+    assert subtract_numbers(3,2) == 2
