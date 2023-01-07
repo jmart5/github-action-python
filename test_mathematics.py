@@ -1,6 +1,6 @@
 import pytest
 
-from mathematics import add_numbers, square_number
+from mathematics import add_numbers, square_number, subtract_numbers
 
 def test_add_positive():
     assert add_numbers(1, 2) == 3
@@ -17,3 +17,6 @@ def test_add_string__expect_exception():
 
 def test_square():
     assert square_number(3) == 9
+
+def test_subtract():
+    assert subtract_numbers(3,2) == 1
